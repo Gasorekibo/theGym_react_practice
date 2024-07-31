@@ -10,6 +10,7 @@ export default {
       },
       backgroundImage:{
         hero:"url('./public/intro-bg.jpg')",
+        about:"url('./public/about.jpg')",
 
       }
     },
